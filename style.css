@@ -1157,4 +1157,11 @@ html {
   .scroll-btn {
     right: 1rem;
   }
+  .burger {
+    top: 3rem;
+    right: 3rem;
+  }
+  .change .burger {
+    right: 29rem;
+  }
 }
